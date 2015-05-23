@@ -7,15 +7,9 @@
  },
  {
    "remote": "th",
-   "repository": "android_hardware_qcom_fm",
-   "target_path": "hardware/qcom/fm",
-   "revision": "lollipop"
- },
- {
-   "remote": "cm",
-   "repository": "lge-kernel-lge-g3",
+   "repository": "android_kernel_lge_g3",
    "target_path": "kernel/lge/g3",
-   "revision": "cm-12.1"
+   "revision": "lp-mr1"
  },
  { 
    "remote": "th",
